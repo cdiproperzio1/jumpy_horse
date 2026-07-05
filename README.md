@@ -1,2 +1,2 @@
 ## Jumpy Horse
-A mobile app for wanna be cowboys
+A mobile app for wannabe cowboys
